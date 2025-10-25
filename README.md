@@ -1,5 +1,8 @@
 # 5.VERIFICATION-OF-NORTON-S-THEOREM
 
+## NAME : PRIYADHARSHINI M
+## REF.NO: 25017828
+
 **AIM:**
 
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
@@ -14,6 +17,15 @@ To verify Norton’s theorem practically and theoretically for the given DC circ
 6.	Multimeter	---	1
 
 **THEORY:**
+![verification of norton theorem _page-0001](https://github.com/user-attachments/assets/03079c4f-9b88-4d67-aeba-82ec5d9f985f)
+![verification of norton theorem _page-0002](https://github.com/user-attachments/assets/81f19f6c-2d81-4f56-ae14-0bdc3cd624e0)
+
+![verification of norton theorem _page-0003](https://github.com/user-attachments/assets/8bfc8857-5026-4456-b6f9-cc8102bde5e4)
+
+![verification of norton theorem _page-0004](https://github.com/user-attachments/assets/f452cfbf-db84-4849-828d-aa33f512df5c)
+![verification of norton theorem _page-0005](https://github.com/user-attachments/assets/f7d7152b-0939-496b-9ddf-a6892c45dbc9)
+
+![verification of norton theorem _page-0006](https://github.com/user-attachments/assets/30f8b863-cdd1-488a-8f34-1768299f36a0)
 
 **NORTON’S THEOREM:**
 
